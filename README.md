@@ -1,7 +1,7 @@
 ## Pipelines and workflows
 This document contains resources on popular bioinformatics pipelines and workflows. _This is work in progress._
 
-#### Review papers on pipelines and workflows
+### Review papers on pipelines and workflows
 
 **A review of bioinformatic pipeline frameworks**  
 Jeremy Leipzig  
@@ -15,6 +15,11 @@ genomics**
 Shakuntala Baichoo, Yassine Souilmi, […] Nicola Mulder  
 _BMC Bioinformatics, November 2018_  
 [https://doi.org/10.1186/s12859-018-2446-1]
+
+**Scalable Workflows and Reproducible Data Analysis for Genomics**  
+Francesco Strozzi, Roel Janssen, Ricardo Wurmus, Michael R. Crusoe, George Githinji, Paolo Di Tommaso, Dominique Belhachemi, Steffen Möller, Geert Smant, Joep de Ligt, Pjotr Prins  
+_Methods in Molecular Biology, 2019_  
+[https://doi.org/10.1007/978-1-4939-9074-0_24]
 
 
 ### Nextflow
@@ -38,7 +43,7 @@ _BMC Bioinformatics, November 2018_
 #### Papers
 
 #### Documentation and tutorials
-
+- Vince Buffalo's Blog post - [Undertanding Snakemake](https://vincebuffalo.com/blog/2020/03/04/understanding-snakemake.html)
 
 #### Example pipelines
 
@@ -48,7 +53,17 @@ _BMC Bioinformatics, November 2018_
 
 #### Papers
 
-#### Documentation and tutorials
 
+#### Documentation and tutorials
+- [Common Workflow Language User Guide](https://www.commonwl.org/user_guide/)
 
 #### Example pipelines
+**Common workflow language (CWL)-based software pipeline for de novo genome assembly from long- and short-read data**  
+Pasi K Korhonen, Ross S Hall, Neil D Young, and Robin B Gasser  
+*Gigascience, April 2019*  
+[https://doi.org/10.1093/gigascience/giz014]
+
+**Creating reproducible pharmacogenomic analysis pipelines**  
+Anthony Mammoliti, Petr Smirnov, Zhaleh Safikhani, Wail Ba-Alawi & Benjamin Haibe-Kains  
+*Scientific Data, September 2019*  
+[https://dx.doi.org/10.1038%2Fs41597-019-0174-7]
