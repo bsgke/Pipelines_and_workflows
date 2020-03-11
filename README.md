@@ -3,17 +3,18 @@ This document contains resources on popular bioinformatics pipelines and workflo
 
 #### Review papers on pipelines and workflows
 
-**A review of bioinformatic pipeline frameworks**
-Jeremy Leipzig
-_Briefings in Bioinformatics, May 2017_
+**A review of bioinformatic pipeline frameworks**  
+Jeremy Leipzig  
+_Briefings in Bioinformatics, May 2017_  
 [https://doi.org/10.1093/bib/bbw020]
 
 **Developing reproducible bioinformatics
 analysis workflows for heterogeneous
 computing environments to support African
-genomics**
-Shakuntala Baichoo, Yassine Souilmi, […] Nicola Mulder
-_BMC Bioinformatics, November 2018_
+genomics**  
+Shakuntala Baichoo, Yassine Souilmi, […] Nicola Mulder  
+_BMC Bioinformatics, November 2018_  
+[https://doi.org/10.1186/s12859-018-2446-1]
 
 
 ### Nextflow
