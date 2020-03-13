@@ -25,6 +25,7 @@ _Methods in Molecular Biology, 2019_
 ### Nextflow
 ------------------
 [nf-core](https://nf-co.re/) is a community collaborative project of nextflow pipelines that have been developed and standardized. nf-core is also a python package to allow easy development and sharing (GitHub/nf-core) of nextflow bioinformatics pipelines.
+nf-core also offers various [tutorials](https://nf-co.re/usage/nextflow) and [workshops](https://github.com/nextflow-io/nf-hack17-tutorial). 
 
 #### Papers
 
